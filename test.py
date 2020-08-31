@@ -1,3 +1,3 @@
 print('hi')
 
-print('hi hi hih hihihih')
+print('아니ㅣㅣㅣㅣㅣㅣ')
